@@ -3,6 +3,7 @@
 # I thrive on creating technology that transforms ambitious visions into reality!
 
 ---
+I am an ex-SWE intern at Bhabha Atomic Research Centre and Computer Engineering graduate student at Cummins College of Engineering,Pune. 
 
 ## 🌟 What Sets Me Apart
 
@@ -13,6 +14,7 @@
 | **Hands-on Experience** | Worked extensively with YARA, C/C++, Python, and web development. |
 | **Research-Oriented** | Implement algorithms from papers, test them practically, and optimize performance. |
 | **Team Player** | Collaborate effectively in teams and contribute to project success. |
+
 
 ---
 
