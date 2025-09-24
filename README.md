@@ -33,4 +33,5 @@
 
 ---
 
-💡 Hobbies: I enjoy Charcoal sketching, hiking and cooking. 
+## 💡 Hobbies
+I enjoy Charcoal sketching, hiking and cooking. 
