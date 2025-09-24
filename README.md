@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Bhargavi
+# 👋 Hello, Welcome to my Profile
 
-Welcome to my GitHub profile! I’m passionate about software development, cybersecurity research, and building practical solutions to complex problems.
+I thrive on creating technology that transforms ambitious visions into reality!
 
 ---
 
