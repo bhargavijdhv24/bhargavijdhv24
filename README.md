@@ -1,6 +1,6 @@
-# 👋 Hello, Welcome to my Profile
+👋 Hello, Welcome to my Profile
 
-I thrive on creating technology that transforms ambitious visions into reality!
+# I thrive on creating technology that transforms ambitious visions into reality!
 
 ---
 
