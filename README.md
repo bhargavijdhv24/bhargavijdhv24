@@ -25,39 +25,6 @@
 
 ---
 
-## 🚀 Projects
-
-### Cellular Handover Simulator
-- **Description**: Simulated cellular handover mechanisms using C++ with visualization.  
-- **Technologies**: C++, Python (Matplotlib)  
-- **Repository**: [Cellular Handover Simulator](#)  
-
-### YARA-based Malware Scanner
-- **Description**: Developed a scanner to detect malicious files using custom YARA rules.  
-- **Technologies**: C, YARA library  
-- **Repository**: [Malware Scanner](#)  
-
-### Internship Research Projects
-- **Description**: Worked on ransomware triaging methods using YARA rules, fuzzy hashing, and import hashing.  
-- **Technologies**: Python, YARA  
-- **Repository**: [Ransomware Analysis](#)  
-
----
-
-## 📈 GitHub Stats
-
-![Bhargavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavijdhv24&show_icons=true&count_private=true&theme=radical)
-
----
-
-## 📬 Get in Touch
-
-- **Email**: [bhargavi@example.com](mailto:bhargavi@example.com)  
-- **LinkedIn**: [LinkedIn Profile](#)  
-- **Portfolio**: [Your Portfolio](#)  
-
----
-
 ## 📌 Currently Learning
 
 - **Cloud Platforms**: AWS, Azure  
@@ -66,4 +33,4 @@
 
 ---
 
-💡 Fun Fact: I enjoy solving complex problems, learning new technologies, and contributing to open-source. When not coding, you’ll find me exploring tech trends or research papers in cybersecurity and networking.
+💡 Hobbies: I enjoy Charcoal sketching, hiking and cooking. 
